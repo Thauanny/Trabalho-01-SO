@@ -1,5 +1,4 @@
-// C Program to multiply two matrix using pthreads without
-// use of global variables
+
 #include<stdio.h>
 #include<pthread.h>
 #include<unistd.h>
