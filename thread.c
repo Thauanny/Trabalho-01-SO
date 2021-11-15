@@ -30,7 +30,6 @@ void *mutiplicacaoDosElementos(void* argument){
     pthread_exit(resultElement);
 }
 
-//Driver code
 int main(int argc, char *argv[]){
     
 
